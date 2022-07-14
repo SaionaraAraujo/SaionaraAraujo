@@ -31,6 +31,7 @@ Here are some ideas to get you started:-->
  ![Power BI](https://img.shields.io/badge/-Power%20BI-white?style=plastic&logo=Power-BI)
  ![Data Studio](https://img.shields.io/badge/-Data%20Studio-white?style=plastic&logo=DataStudio)
  ![Figma](https://img.shields.io/badge/-Figma-white?style=plastic&logo=Figma)
+ ![Excel](https://img.shields.io/badge/-Excel-white?style=plastic&logo=Excel)
  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql)
  ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=plastic&logo=Jupyter)
